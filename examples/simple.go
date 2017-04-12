@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/homesound/gst"
 	"github.com/ziutek/glib"
-	"github.com/ziutek/gst"
 )
 
 func checkElem(e *gst.Element, name string) {

@@ -12,8 +12,8 @@ import (
 	"net/http"
 	"syscall"
 
+	"github.com/homesound/gst"
 	"github.com/ziutek/glib"
-	"github.com/ziutek/gst"
 )
 
 type Index struct {

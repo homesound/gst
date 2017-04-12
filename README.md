@@ -3,7 +3,7 @@
 This package is based on [GLib bindings](https://github.com/ziutek/glib). It
 should be goinstalable. Try
 
-    $ go get github.com/ziutek/gst
+    $ go get github.com/homesound/gst
 
 #### Documentation
 
